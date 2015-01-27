@@ -26,7 +26,7 @@
                        'moistloaf',          # Stimhack
                        'alsciende'           # Cedric                - http://netrunnerdb.com/
                         ], # 3$ Tier
-'CustomSubs'         : ['dovian',                   # Daniel DeBoer         - http://www.patreon.com/user?u=66260
+'CustomSubs'         : ['dovian',                  # Daniel DeBoer         - http://www.patreon.com/user?u=66260
                        'TandooriChicken',          # TandooriChicken       - http://www.patreon.com/user?u=149887
                        'demarko'                   # Dannel Jurado         - http://www.patreon.com/demarko
                         ], # $5 Tier   
@@ -34,10 +34,10 @@
 'CardSubs' :         : ['susuexp',                    # Simon Gunkel          - http://www.patreon.com/user?u=66210
                         'reverendanthony',            # Anthony Burch         - http://www.patreon.com/user?u=66843
                         'theemann',                   # Chad                  - http://www.patreon.com/user?u=90551
-                        #'rediknight',                 # Jeremy Espinosa       - http://www.patreon.com/user?u=68437 # Declined last payment...again.
+                        #'rediknight',                # Jeremy Espinosa       - http://www.patreon.com/user?u=68437 # Declined last payment...again.
                         'wimpgod',                    # Gary Bergeron         - Old time supporter
-                        'tuism',                      #Steven Tu              - Awesome dude
-                        'Kethran',                    # Marius Ødegård        - http://www.patreon.com/user?u=90737
+                        'tuism',                      # Steven Tu              - Awesome dude
+                        'Kethran',                    # Marius Odegard        - http://www.patreon.com/user?u=90737
                         'presheaf',                   # Karl Erik Holter       - http://www.patreon.com/user?u=405662
                         'db0',
                         'dbzer0'
