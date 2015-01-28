@@ -25,7 +25,8 @@
                        'danthulhu',          # Dan                   - http://www.patreon.com/user?u=338034
                        'bayushi_david',      # Stimhack
                        'moistloaf',          # Stimhack
-                       'hoopjones'           # Brian Kupcheck        - http://www.patreon.com/user?u=66678
+                       'hoopjones',          # Brian Kupcheck        - http://www.patreon.com/user?u=66678
+                       'ajar',               # Stimhack
                        'alsciende'           # Cedric                - http://netrunnerdb.com/
                         ], 
                         
