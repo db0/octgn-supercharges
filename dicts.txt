@@ -31,8 +31,9 @@
                         ], 
                         
 'CustomSubs'         : [ # $5 Tier   
-                       'dovian',                  # Daniel DeBoer         - http://www.patreon.com/user?u=66260
-                       'TandooriChicken',          # TandooriChicken       - http://www.patreon.com/user?u=149887
+                       'dovian',                   # Daniel DeBoer         - http://www.patreon.com/user?u=66260
+                       'tandoorichicken',          # TandooriChicken       - http://www.patreon.com/user?u=149887
+                       'scorcho',                  # Scorcho               - https://www.patreon.com/user?u=61203
                        'demarko'                   # Dannel Jurado         - http://www.patreon.com/demarko
                         ], 
                         
@@ -53,23 +54,26 @@
                        'dovian'                       : "Dovian wants YOU to support A:NR on OCTGN! - http://www.patreon.com/db0",
                        'demarko'                      : "Above the door is a matte black hemisphere about a meter in diameter, set into the front wall of the building. It is the closest thing the place has to decoration. Underneath it, in letters carved into the wall's black substance, is the name of the place: THE BLACK SUN.",
                        'reverendanthony'              : "When Anthony makes a run on your HQ he stops to kiss you on the cheek real quick",
-                       'TheEmann'                     : "Take time to deliberate, but when the time for action comes, stop thinking and go in. --Napoleon",
-                       'TandooriChicken'              : "How about a nice game of chess?",
+                       'theemann'                     : "Take time to deliberate, but when the time for action comes, stop thinking and go in. --Napoleon",
+                       'tandoorichicken'              : "How about a nice game of chess?",
+                       'scorcho'                      : "Scorcho is streaming this game live on twitch! http://www.twitch.tv/scorcho1108",
                        'db0'                          : "Please consider supporting A:NR development via Patreon - http://www.patreon.com/db0"
                         },
                   
 'corpStartMsgs'      : { # Dictionary holding the messages requested by people on the 5$ tier and for corp turn start
-                       #rediknight         = "\"When I advance my agendas you'll never know if it is safe to proceed or if the damage you will take will bleed you dry.\"",
+                       'scorcho'                      : "Scorcho is firing it up."
                        },
                     
 'corpEndMsgs'        : { # Dictionary holding the messages requested by people on the 5$ tier and for corp turn end
+                       'scorcho'                      : "Scorcho is shutting it down."
                        },
                     
 'runnerStartMsgs'    : { # Dictionary holding the messages requested by people on the 5$ tier and for runner turn start
-                       #rediknight         = "\"When I run no server is safe. Is it crime to take what is mine?\""
+                       'scorcho'                      : "Scorcho is firing it up."
                         },
                     
 'runnerEndMsgs'      : { # Dictionary holding the messages requested by people on the 5$ tier and for runner turn end
+                       'scorcho'                      : "Scorcho is shutting it down."
                         },
                         
 }
