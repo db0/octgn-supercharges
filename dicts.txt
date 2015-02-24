@@ -59,6 +59,7 @@
                        'theemann'                     : "Take time to deliberate, but when the time for action comes, stop thinking and go in. --Napoleon",
                        'tandoorichicken'              : "How about a nice game of chess?",
                        'scorcho'                      : "Scorcho is streaming this game live on twitch! http://www.twitch.tv/scorcho1108",
+                       'photon'                       : "Photon says: Good luck. Have fun!",
                        'db0'                          : "Please consider supporting A:NR development via Patreon - http://www.patreon.com/db0"
                         },
                   
