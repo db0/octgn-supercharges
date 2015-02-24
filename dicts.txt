@@ -35,6 +35,7 @@
                        'dovian',                   # Daniel DeBoer         - http://www.patreon.com/user?u=66260
                        'tandoorichicken',          # TandooriChicken       - http://www.patreon.com/user?u=149887
                        'scorcho',                  # Scorcho               - https://www.patreon.com/user?u=61203
+                       'photon',                   # Michael Nock          - 
                        'demarko'                   # Dannel Jurado         - http://www.patreon.com/demarko
                         ], 
                         
