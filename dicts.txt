@@ -27,7 +27,7 @@
                        'moistloaf',          # Stimhack
                        'hoopjones',          # Brian Kupcheck        - http://www.patreon.com/user?u=66678
                        'ajar',               # Stimhack
-                       'JohnnyCreations ',   # Stimhack
+                       'johnnycreations ',   # Stimhack
                        'alsciende'           # Cedric                - http://netrunnerdb.com/
                         ], 
                         
