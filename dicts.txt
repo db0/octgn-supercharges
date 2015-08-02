@@ -29,6 +29,7 @@
                        'ajar',               # Stimhack
                        'johnnycreations ',   # Stimhack
                        'TonyHawp',           # Patreon               - Andrew
+                       'hasserik',           # Patreon               - https://www.patreon.com/user?u=959379
                        'alsciende'           # Cedric                - http://netrunnerdb.com/
                         ], 
                         
@@ -37,6 +38,7 @@
                        'tandoorichicken',          # TandooriChicken       - http://www.patreon.com/user?u=149887
                        'scorcho',                  # Scorcho               - https://www.patreon.com/user?u=61203
                        'photon',                   # Michael Nock          - 
+                       'crazymudflaps',            # Michael Nock          - https://www.patreon.com/user?u=512238
                        'demarko'                   # Dannel Jurado         - http://www.patreon.com/demarko
                         ], 
                         
@@ -69,6 +71,7 @@
                        },
                     
 'corpEndMsgs'        : { # Dictionary holding the messages requested by people on the 5$ tier and for corp turn end
+                       'crazymudflaps'               : "Crazymudflaps does not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. He will face his fear.",
                        'scorcho'                      : "Scorcho is shutting it down."
                        },
                     
@@ -77,6 +80,7 @@
                         },
                     
 'runnerEndMsgs'      : { # Dictionary holding the messages requested by people on the 5$ tier and for runner turn end
+                       'crazymudflaps'               : "Crazymudflaps does not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. He will face his fear.",
                        'scorcho'                      : "Scorcho is shutting it down."
                         },
                         
