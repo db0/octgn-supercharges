@@ -30,6 +30,7 @@
                        'johnnycreations ',   # Stimhack
                        'TonyHawp',           # Patreon               - Andrew
                        'hasserik',           # Patreon               - https://www.patreon.com/user?u=959379
+                       'CrimsonWraith',      # Patreon               - Matt Dawkins
                        'alsciende'           # Cedric                - http://netrunnerdb.com/
                         ], 
                         
